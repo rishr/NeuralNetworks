@@ -17,11 +17,9 @@ Sigmoid neuron: very similar to perceptrons. But small changes in the edge weigh
 
 
 Layer
-One layer is consists of many neurons and can be represented as the following picture:
+One layer is consists of many neurons 
 
  
-
-Figure 2. The construction of a neural network layer.
 
  
 
